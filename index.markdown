@@ -8,7 +8,3 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
-  Welcome to mysite! Ola
-</p>
-
